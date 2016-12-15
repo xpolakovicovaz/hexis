@@ -1,0 +1,45 @@
+C:\Users\Zdenka\Documents\Csharp\moje\hexis\hexis\bin\Debug\hexis.exe.config
+C:\Users\Zdenka\Documents\Csharp\moje\hexis\hexis\bin\Debug\hexis.exe
+C:\Users\Zdenka\Documents\Csharp\moje\hexis\hexis\bin\Debug\hexis.pdb
+C:\Users\Zdenka\Documents\Csharp\moje\hexis\hexis\obj\Debug\hexis.Form1.resources
+C:\Users\Zdenka\Documents\Csharp\moje\hexis\hexis\obj\Debug\hexis.Properties.Resources.resources
+C:\Users\Zdenka\Documents\Csharp\moje\hexis\hexis\obj\Debug\hexis.csproj.GenerateResource.Cache
+C:\Users\Zdenka\Documents\Csharp\moje\hexis\hexis\obj\Debug\hexis.exe
+C:\Users\Zdenka\Documents\Csharp\moje\hexis\hexis\obj\Debug\hexis.pdb
+C:\Users\Zdenka\Documents\Csharp\moje\hexis\hexis\obj\Debug\hexis.csprojResolveAssemblyReference.cache
+C:\Users\Zdenka\Documents\Csharp\moje\hexis – poriadne\hexis\bin\Debug\hexis.exe.config
+C:\Users\Zdenka\Documents\Csharp\moje\hexis – poriadne\hexis\obj\Debug\hexis.exe
+C:\Users\Zdenka\Documents\Csharp\moje\hexis – poriadne\hexis\obj\Debug\hexis.pdb
+C:\Users\Zdenka\Documents\Csharp\moje\hexis – poriadne\hexis\bin\Debug\hexis.exe
+C:\Users\Zdenka\Documents\Csharp\moje\hexis – poriadne\hexis\bin\Debug\hexis.pdb
+C:\Users\Zdenka\Documents\Csharp\moje\hexis – poriadne\hexis\obj\Debug\hexis.csprojResolveAssemblyReference.cache
+C:\Users\Zdenka\Documents\Csharp\moje\hexis – poriadne\hexis\obj\Debug\hexis.Form1.resources
+C:\Users\Zdenka\Documents\Csharp\moje\hexis – poriadne\hexis\obj\Debug\hexis.Properties.Resources.resources
+C:\Users\Zdenka\Documents\Csharp\moje\hexis – poriadne\hexis\obj\Debug\hexis.csproj.GenerateResource.Cache
+C:\Users\Zdenka\Documents\Csharp\moje\hexis – poriadne\hexis\obj\Debug\hexis.tabulka.resources
+C:\Users\Zdenka\Documents\Csharp\moje\hexis – poriadne\hexis\obj\Debug\hexis.Form2.resources
+C:\Users\Zdenka\Documents\Csharp\moje\hexis – poriadne -inak\hexis\bin\Debug\hexis.exe.config
+C:\Users\Zdenka\Documents\Csharp\moje\hexis – poriadne -inak\hexis\obj\Debug\hexis.exe
+C:\Users\Zdenka\Documents\Csharp\moje\hexis – poriadne -inak\hexis\obj\Debug\hexis.pdb
+C:\Users\Zdenka\Documents\Csharp\moje\hexis – poriadne -inak\hexis\bin\Debug\hexis.exe
+C:\Users\Zdenka\Documents\Csharp\moje\hexis – poriadne -inak\hexis\bin\Debug\hexis.pdb
+C:\Users\Zdenka\Documents\Csharp\moje\hexis – poriadne -inak\hexis\obj\Debug\hexis.csprojResolveAssemblyReference.cache
+C:\Users\Zdenka\Documents\Csharp\moje\hexis – poriadne -inak\hexis\obj\Debug\hexis.Form1.resources
+C:\Users\Zdenka\Documents\Csharp\moje\hexis – poriadne -inak\hexis\obj\Debug\hexis.Form2.resources
+C:\Users\Zdenka\Documents\Csharp\moje\hexis – poriadne -inak\hexis\obj\Debug\hexis.Properties.Resources.resources
+C:\Users\Zdenka\Documents\Csharp\moje\hexis – poriadne -inak\hexis\obj\Debug\hexis.tabulka.resources
+C:\Users\Zdenka\Documents\Csharp\moje\hexis – poriadne -inak\hexis\obj\Debug\hexis.csproj.GenerateResource.Cache
+C:\Users\Zdenka\Documents\Csharp\H\hexis – poriadne -inak\hexis\bin\Debug\hexis.exe.config
+C:\Users\Zdenka\Documents\Csharp\H\hexis – poriadne -inak\hexis\obj\Debug\hexis.exe
+C:\Users\Zdenka\Documents\Csharp\H\hexis – poriadne -inak\hexis\obj\Debug\hexis.pdb
+C:\Users\Zdenka\Documents\Csharp\H\hexis – poriadne -inak\hexis\bin\Debug\hexis.exe
+C:\Users\Zdenka\Documents\Csharp\H\hexis – poriadne -inak\hexis\bin\Debug\hexis.pdb
+C:\Users\Zdenka\Documents\Csharp\H\hexis – poriadne -inak\hexis\obj\Debug\hexis.csprojResolveAssemblyReference.cache
+C:\Users\Zdenka\Documents\Csharp\H\hexis – poriadne -inak\hexis\obj\Debug\hexis.Form1.resources
+C:\Users\Zdenka\Documents\Csharp\H\hexis – poriadne -inak\hexis\obj\Debug\hexis.Form2.resources
+C:\Users\Zdenka\Documents\Csharp\H\hexis – poriadne -inak\hexis\obj\Debug\hexis.Properties.Resources.resources
+C:\Users\Zdenka\Documents\Csharp\H\hexis – poriadne -inak\hexis\obj\Debug\hexis.tabulka.resources
+C:\Users\Zdenka\Documents\Csharp\H\hexis – poriadne -inak\hexis\obj\Debug\hexis.csproj.GenerateResource.Cache
+C:\Users\Zdenka\Source\Repos\hexis\hexis\bin\Debug\hexis.exe.config
+C:\Users\Zdenka\Source\Repos\hexis\hexis\obj\Debug\hexis.exe
+C:\Users\Zdenka\Source\Repos\hexis\hexis\obj\Debug\hexis.pdb
